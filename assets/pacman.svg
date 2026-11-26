@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="787" height="169" viewBox="0 0 787 169" role="img" aria-label="Pac-Man comendo o gráfico de contribuições de Coritiba019">
   <rect width="787" height="169" rx="10" fill="#ffffff"/>
-  <text x="24" y="25" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="13" fill="#57606a">975 contribuições no último ano</text>
+  <text x="24" y="25" font-family="'Segoe UI', Ubuntu, Arial, sans-serif" font-size="13" fill="#57606a">977 contribuições no último ano</text>
   <rect x="24" y="40" width="11" height="11" rx="2" fill="#ebedf0"/>
   <rect x="24" y="54" width="11" height="11" rx="2" fill="#9be9a8"><animate attributeName="fill" dur="33.39s" repeatCount="indefinite" calcMode="discrete" values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.0047;1"/></rect>
   <rect x="24" y="68" width="11" height="11" rx="2" fill="#ebedf0"/>
@@ -368,7 +368,8 @@
   <rect x="752" y="40" width="11" height="11" rx="2" fill="#ebedf0"/>
   <rect x="752" y="54" width="11" height="11" rx="2" fill="#ebedf0"/>
   <rect x="752" y="68" width="11" height="11" rx="2" fill="#216e39"><animate attributeName="fill" dur="33.39s" repeatCount="indefinite" calcMode="discrete" values="#216e39;#ebedf0;#ebedf0" keyTimes="0;0.9885;1"/></rect>
-  <rect x="752" y="82" width="11" height="11" rx="2" fill="#ebedf0"/>
+  <rect x="752" y="82" width="11" height="11" rx="2" fill="#9be9a8"><animate attributeName="fill" dur="33.39s" repeatCount="indefinite" calcMode="discrete" values="#9be9a8;#ebedf0;#ebedf0" keyTimes="0;0.9912;1"/></rect>
+  <rect x="752" y="96" width="11" height="11" rx="2" fill="#ebedf0"/>
   
   <g visibility="hidden">
     <set attributeName="visibility" to="visible" begin="0.81s"/>
